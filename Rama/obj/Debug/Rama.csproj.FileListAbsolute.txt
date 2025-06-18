@@ -129,23 +129,7 @@ E:\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form9.resources
 E:\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Properties.Resources.resources
 E:\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.csproj.GenerateResource.Cache
 E:\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form11.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\bin\Debug\Rama.exe.config
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.csproj.ResolveComReference.cache
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.exe
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.pdb
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\bin\Debug\Rama.exe
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\bin\Debug\Rama.pdb
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.csprojResolveAssemblyReference.cache
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form1.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form10.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form11.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form2.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form3.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form4.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form5.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form6.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form7.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form8.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Form9.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.Properties.Resources.resources
-C:\Users\ferne\Documents\Visual Studio 2015\Projects\RamaPM12COMOD2DO\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.csproj.GenerateResource.Cache
+C:\Users\Yanin\Documents\Visual Studio 2015\Projects\RamaPM12COMOD}\RamaPM12COMOD}\RamaPM12CO\Rama\bin\Debug\Rama.exe.config
+C:\Users\Yanin\Documents\Visual Studio 2015\Projects\RamaPM12COMOD}\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.csproj.ResolveComReference.cache
+C:\Users\Yanin\Documents\Visual Studio 2015\Projects\RamaPM12COMOD}\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.exe
+C:\Users\Yanin\Documents\Visual Studio 2015\Projects\RamaPM12COMOD}\RamaPM12COMOD}\RamaPM12CO\Rama\obj\Debug\Rama.pdb
